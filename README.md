@@ -7,7 +7,7 @@ It is a simple To-Do List Application built with JavaScript and HTML/CSS. It's m
 
 
 ## Table of Contents
-Introduction
+*Introduction
 Features
 Prerequisites
 Installation
