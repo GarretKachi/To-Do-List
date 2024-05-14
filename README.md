@@ -7,15 +7,14 @@ It is a simple To-Do List Application built with JavaScript and HTML/CSS. It's m
 
 
 ## Table of Contents
-*Introduction
-Features
-Prerequisites
-Installation
-Usage
-API Documentation
-Contributing
-License
-*
+* Introduction
+* Features
+* Prerequisites
+* Installation
+* Usage
+* API Documentation
+* Contributing
+* License
 
 ## Introduction
 The To-Do List Application is a web-based task management tool that allows users to create, update, and delete tasks. It provides a clean and intuitive user interface for managing to-do lists effectively.
