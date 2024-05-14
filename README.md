@@ -19,31 +19,31 @@ License
 ##Introduction
 The To-Do List Application is a web-based task management tool that allows users to create, update, and delete tasks. It provides a clean and intuitive user interface for managing to-do lists effectively.
 
-##Features
-Create new tasks with a descriptive text.
-Mark tasks as completed or incomplete.
-Update task details or status.
-Delete tasks individually.
-Responsive design for use on desktop and mobile devices.
-Prerequisites
+## Features
+1. Create new tasks with a descriptive text.
+2. Mark tasks as completed or incomplete.
+3. Update task details or status.
+4. Delete tasks individually.
+5. Responsive design for use on desktop and mobile devices.
+6. Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 A modern web browser with JavaScript enabled.
 
-##Installation
+## Installation
 To install the To-Do List Application, simply download or clone the repository to your local machine.
 
-##Usage
+## Usage
 To use the To-Do List Application, follow these steps:
 
 1. Open the index.html file in your web browser.
 
 2. You can now use the To-Do List Application to manage your tasks.
 
-##API Documentation
+## API Documentation
 The To-Do List Application does not require any backend server or API. All data manipulation is handled locally in the browser using JavaScript.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
